@@ -33,10 +33,5 @@ public class NewsPaperSub {
 	public String toString() {
 		return "NewsPaperSub [newsPaperName=" + newsPaperName + ", dailyCost=" + Arrays.toString(dailyCost) + "]";
 	}
-	
-	
-	
-	
-	
 
 }
